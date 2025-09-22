@@ -100,17 +100,7 @@ mvn -v
 
 ---
 
-## 📸 Capturas
-
-### 🔑 Login
-*(Aquí puedes poner una captura de tu LoginFrame)*  
-
-### 📝 Registro de Estudiantes
-*(Aquí puedes poner la captura del formulario con la tabla de estudiantes)*  
-
----
-
 ## 👨‍💻 Autor
 
-- **Coder** (Proyecto académico con Java & Swing)  
+- **AlexWason** (Proyecto académico con Java & Swing)  
 - 🚀 Inspirado para aprender **POO, Swing y manejo de archivos CSV**  
